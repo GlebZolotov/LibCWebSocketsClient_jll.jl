@@ -1,9 +1,9 @@
 [[LibCWebSocketsClient]]
 arch = "x86_64"
-git-tree-sha1 = "204eaea903d51ffe08f76eec0aa72fb76dc12927"
+git-tree-sha1 = "17e9d6c8bc3fee5fd751f59b32a55d6b329b2586"
 libc = "glibc"
 os = "linux"
 
     [[LibCWebSocketsClient.download]]
-    sha256 = "3809afbbf26135881d845dc73efdcbb4ab1c01d69deeef4f03fa327cad69c282"
-    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.1+0/LibCWebSocketsClient.v1.0.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "312c7312ba4a898605c4f1c59c95cd9fd2dda8b7318f35409b5c2afe56ae8329"
+    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.2+0/LibCWebSocketsClient.v1.0.2.x86_64-linux-gnu.tar.gz"
