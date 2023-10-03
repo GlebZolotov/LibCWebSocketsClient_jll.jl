@@ -1,9 +1,25 @@
 [[LibCWebSocketsClient]]
+arch = "aarch64"
+git-tree-sha1 = "03d40ad11bc4f5a893a2f644aca8bd4ba2a0666c"
+os = "macos"
+
+    [[LibCWebSocketsClient.download]]
+    sha256 = "acc064289faa4273ee8fb757afaf218a67ac264187098ce50feefcd938ef9b2c"
+    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.3+0/LibCWebSocketsClient.v1.0.3.aarch64-apple-darwin.tar.gz"
+[[LibCWebSocketsClient]]
 arch = "x86_64"
-git-tree-sha1 = "17e9d6c8bc3fee5fd751f59b32a55d6b329b2586"
+git-tree-sha1 = "7585551b24dc77842410cf32e122185488a16d2d"
+os = "macos"
+
+    [[LibCWebSocketsClient.download]]
+    sha256 = "7e09e81981a75a600bd9239e43765999c64a0d13e72e5cb55365e5841da0081c"
+    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.3+0/LibCWebSocketsClient.v1.0.3.x86_64-apple-darwin.tar.gz"
+[[LibCWebSocketsClient]]
+arch = "x86_64"
+git-tree-sha1 = "ef9debff974d02a92026223b6bf69fafbbf90d23"
 libc = "glibc"
 os = "linux"
 
     [[LibCWebSocketsClient.download]]
-    sha256 = "312c7312ba4a898605c4f1c59c95cd9fd2dda8b7318f35409b5c2afe56ae8329"
-    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.2+0/LibCWebSocketsClient.v1.0.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "70c42640cfe0c2b3ec6e3650fac9c0bf5733b427b50ba3f98c3ad7fd859cfcad"
+    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.3+0/LibCWebSocketsClient.v1.0.3.x86_64-linux-gnu.tar.gz"
