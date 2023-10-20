@@ -1,25 +1,25 @@
 [[LibCWebSocketsClient]]
 arch = "aarch64"
-git-tree-sha1 = "03d40ad11bc4f5a893a2f644aca8bd4ba2a0666c"
+git-tree-sha1 = "b65ea985638ab0f9e2992e6660466ab0627c3ca0"
 os = "macos"
 
     [[LibCWebSocketsClient.download]]
-    sha256 = "acc064289faa4273ee8fb757afaf218a67ac264187098ce50feefcd938ef9b2c"
-    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.3+0/LibCWebSocketsClient.v1.0.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "baa27424d6cf41d02676a634a31b59101f1745758d05cb3e341159de032081b8"
+    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.6+0/LibCWebSocketsClient.v1.0.6.aarch64-apple-darwin.tar.gz"
 [[LibCWebSocketsClient]]
 arch = "x86_64"
-git-tree-sha1 = "7585551b24dc77842410cf32e122185488a16d2d"
+git-tree-sha1 = "6bb435a4df50fb5d6669ef546ff709a27e872922"
 os = "macos"
 
     [[LibCWebSocketsClient.download]]
-    sha256 = "7e09e81981a75a600bd9239e43765999c64a0d13e72e5cb55365e5841da0081c"
-    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.3+0/LibCWebSocketsClient.v1.0.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "d38acee011418b847db87ee4c4e0c86d7e0996ac77b7ed92edc7880fc20f300d"
+    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.6+0/LibCWebSocketsClient.v1.0.6.x86_64-apple-darwin.tar.gz"
 [[LibCWebSocketsClient]]
 arch = "x86_64"
-git-tree-sha1 = "ef9debff974d02a92026223b6bf69fafbbf90d23"
+git-tree-sha1 = "ae2126f06f84ac0b9ab77d0291ca6271745ce2fd"
 libc = "glibc"
 os = "linux"
 
     [[LibCWebSocketsClient.download]]
-    sha256 = "70c42640cfe0c2b3ec6e3650fac9c0bf5733b427b50ba3f98c3ad7fd859cfcad"
-    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.3+0/LibCWebSocketsClient.v1.0.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "18756520fc6f203b0b74d88be5b5e332ea622f40f8c8e6c240954bb0f55eefb3"
+    url = "https://github.com/GlebZolotov/LibCWebSocketsClient_jll.jl/releases/download/LibCWebSocketsClient-v1.0.6+0/LibCWebSocketsClient.v1.0.6.x86_64-linux-gnu.tar.gz"
